@@ -36,7 +36,7 @@ MainActivity
 Design the layout for MainActivity as shown in the provided screenshot.
 
 
-![image alt](![Uploading image.png…]()
+![image alt](https://github.com/mohansivaraot/MAD_23012531058_PRACTICAL6/blob/9588f2e55e5f37a5ee78af2d09dc21adfdb1bf79/Screenshot%202025-11-27%20101350.png
 )
 Implement a frame-by-frame animation on the ImageView to cycle through different images of an alarm clock.
 Use an <animation-list> in a drawable resource for the frame-by-frame animation.
